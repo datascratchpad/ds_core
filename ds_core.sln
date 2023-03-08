@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ds_core", "ds_core\ds_core.csproj", "{C0138A8C-EE87-41EE-AE41-291533DC4825}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Custom x64|Any CPU = Custom x64|Any CPU
+		Custom x64|x64 = Custom x64|x64
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0138A8C-EE87-41EE-AE41-291533DC4825}.Custom x64|Any CPU.ActiveCfg = Release|Any CPU
+		{C0138A8C-EE87-41EE-AE41-291533DC4825}.Custom x64|Any CPU.Build.0 = Release|Any CPU
+		{C0138A8C-EE87-41EE-AE41-291533DC4825}.Custom x64|x64.ActiveCfg = Debug|x64
+		{C0138A8C-EE87-41EE-AE41-291533DC4825}.Custom x64|x64.Build.0 = Debug|x64
+		{C0138A8C-EE87-41EE-AE41-291533DC4825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0138A8C-EE87-41EE-AE41-291533DC4825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0138A8C-EE87-41EE-AE41-291533DC4825}.Debug|x64.ActiveCfg = Debug|x64
+		{C0138A8C-EE87-41EE-AE41-291533DC4825}.Debug|x64.Build.0 = Debug|x64
+		{C0138A8C-EE87-41EE-AE41-291533DC4825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0138A8C-EE87-41EE-AE41-291533DC4825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0138A8C-EE87-41EE-AE41-291533DC4825}.Release|x64.ActiveCfg = Release|x64
+		{C0138A8C-EE87-41EE-AE41-291533DC4825}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5F1FB30-79F5-4177-8E9E-CC2A11A348C3}
+	EndGlobalSection
+EndGlobal
